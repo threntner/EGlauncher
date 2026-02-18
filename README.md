@@ -1,2 +1,0 @@
-# EGlauncher
-EGlauncher Discord-App

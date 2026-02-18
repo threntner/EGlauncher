@@ -1,0 +1,21 @@
+# Nutzungsbedingungen für EGLauncher Bot
+
+## 1. Geltungsbereich
+Diese Nutzungsbedingungen gelten für die Nutzung des Discord-Bots "EGLauncher" (im Folgenden "Bot").
+
+## 2. Funktionen
+Der Bot bietet folgende Funktionen:
+- Anzeige von Changelogs aus Discord
+- Rich Presence Integration
+- Launcher-Status Anzeigen
+
+## 3. Datennutzung
+Der Bot liest Nachrichten aus dem #changelogs-Channel und zeigt sie im Launcher an.
+
+## 4. Haftungsausschluss
+Der Bot wird "wie besehen" bereitgestellt. Wir übernehmen keine Haftung für Ausfälle oder Datenverlust.
+
+## 5. Änderungen
+Wir behalten uns vor, diese Bedingungen jederzeit zu ändern.
+
+Stand: Februar 2026

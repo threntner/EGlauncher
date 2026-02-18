@@ -1,0 +1,23 @@
+# Datenschutzerklärung für EGLauncher Bot
+
+## 1. Welche Daten werden gespeichert?
+- Keine personenbezogenen Daten werden dauerhaft gespeichert
+- Temporärer Cache von Discord-Nachrichten (max. 1 Stunde)
+- Keine Weitergabe an Dritte
+
+## 2. Zweck der Datenspeicherung
+- Anzeige von Changelogs im Launcher
+- Verbesserung der Benutzererfahrung
+
+## 3. Discord-Daten
+Der Bot liest folgende öffentliche Discord-Daten:
+- Nachrichten im #changelogs-Channel
+- Benutzernamen der Autoren
+
+## 4. Kontakt
+Bei Fragen: [Deine Email oder Discord]
+
+## 5. Löschung
+Der Cache wird automatisch nach 1 Stunde gelöscht.
+
+Stand: Februar 2026
